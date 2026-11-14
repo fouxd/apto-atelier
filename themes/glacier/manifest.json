@@ -1,0 +1,13 @@
+{
+  "id": "glacier",
+  "name": "Glacier",
+  "version": "1.0.0",
+  "author": "Apto",
+  "description": "Glacier: an original native Apto CSS theme.",
+  "licence": "CC0-1.0",
+  "cssApi": 1,
+  "layouts": [
+    "MENU",
+    "DROPDOWN"
+  ]
+}

@@ -1,0 +1,15 @@
+/* Glacier — Apto CSS v1. Edit externally, then import or link this file. */
+:root {
+  --accent: #C2F8FF;
+  color: var(--accent);
+  font-family: geist;
+  font-size: 100%;
+  --apto-opening: fade;
+  transition-duration: 250ms;
+}
+.panel { background-color: #10252B; border-radius: 16px; }
+.module { background-color: #183841; border-radius: 12px; gap: 14px; }
+.module:hover { border-color: #C2F8FF; border-width: 1px; }
+.search { background-color: #183841; border-radius: 12px; }
+.button:hover { background-color: #183841; }
+.settings { color: #C2F8FF; }

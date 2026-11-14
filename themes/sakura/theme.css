@@ -1,0 +1,17 @@
+/* Sakura — Apto CSS v1. Edit externally, then import or link this file. */
+:root {
+  --accent: #FFD2E6;
+  color: var(--accent);
+  font-family: geist;
+  font-size: 100%;
+  --apto-opening: fade;
+  transition-duration: 250ms;
+}
+.panel { background-color: #211923; border-radius: 16px; }
+.module { background-color: #362536; border-radius: 12px; gap: 14px; }
+.module:hover { border-color: #FFD2E6; border-width: 1px; }
+.search { background-color: #362536; border-radius: 12px; }
+.button:hover { background-color: #362536; }
+.settings { color: #FFD2E6; }
+
+.panel { --apto-decoration: sakura; --apto-border: minecrafty; --apto-placement: outside; --apto-decoration-size: 75%; }

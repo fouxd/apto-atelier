@@ -1,0 +1,15 @@
+/* Midnight — Apto CSS v1. Edit externally, then import or link this file. */
+:root {
+  --accent: #BDD8FF;
+  color: var(--accent);
+  font-family: geist;
+  font-size: 100%;
+  --apto-opening: fade;
+  transition-duration: 250ms;
+}
+.panel { background-color: #10141C; border-radius: 16px; }
+.module { background-color: #1B2533; border-radius: 12px; gap: 14px; }
+.module:hover { border-color: #BDD8FF; border-width: 1px; }
+.search { background-color: #1B2533; border-radius: 12px; }
+.button:hover { background-color: #1B2533; }
+.settings { color: #BDD8FF; }

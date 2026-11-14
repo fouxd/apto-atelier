@@ -1,0 +1,13 @@
+{
+  "id": "midnight",
+  "name": "Midnight",
+  "version": "1.0.0",
+  "author": "Apto",
+  "description": "Midnight: an original native Apto CSS theme.",
+  "licence": "CC0-1.0",
+  "cssApi": 1,
+  "layouts": [
+    "MENU",
+    "DROPDOWN"
+  ]
+}

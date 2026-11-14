@@ -1,0 +1,50 @@
+[
+  {
+    "id": "midnight",
+    "name": "Midnight",
+    "version": "1.0.0",
+    "author": "Apto",
+    "description": "Midnight: an original native Apto CSS theme.",
+    "licence": "CC0-1.0",
+    "cssApi": 1,
+    "layouts": [
+      "MENU",
+      "DROPDOWN"
+    ],
+    "download": "https://github.com/fouxd/apto-atelier/releases/download/starter-themes-v1/midnight-1.0.0.apto-theme",
+    "sha256": "dce5f0a748c66ad26ebfdac328d25df8c9dfcfbb8fe74687bef76e4ae317c904",
+    "preview": ""
+  },
+  {
+    "id": "sakura",
+    "name": "Sakura",
+    "version": "1.0.0",
+    "author": "Apto",
+    "description": "Sakura: an original native Apto CSS theme.",
+    "licence": "CC0-1.0",
+    "cssApi": 1,
+    "layouts": [
+      "MENU",
+      "DROPDOWN"
+    ],
+    "download": "https://github.com/fouxd/apto-atelier/releases/download/starter-themes-v1/sakura-1.0.0.apto-theme",
+    "sha256": "978e2da1a3ff3d694b9aeea7d83fd9f57ab401a05eaffa493cc70504b83da645",
+    "preview": ""
+  },
+  {
+    "id": "glacier",
+    "name": "Glacier",
+    "version": "1.0.0",
+    "author": "Apto",
+    "description": "Glacier: an original native Apto CSS theme.",
+    "licence": "CC0-1.0",
+    "cssApi": 1,
+    "layouts": [
+      "MENU",
+      "DROPDOWN"
+    ],
+    "download": "https://github.com/fouxd/apto-atelier/releases/download/starter-themes-v1/glacier-1.0.0.apto-theme",
+    "sha256": "5b77190cc396c397073f8bf3dcce2eb51f91ddced60368e3364e443cfe17e729",
+    "preview": ""
+  }
+]
